@@ -1,2 +1,7 @@
 # web3bbs
-This project is a web3 bbs. Users can post articles on the website and use cryptocurrency trading props on it
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x519ebB0fA7674c14d4f39CB887d30bF5A66304CE'
+quorum: 1

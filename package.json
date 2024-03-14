@@ -1,5 +1,5 @@
 {
-  "name": "web3bbs",
+  "name": "@hament/web3bbs",
   "version": "1.0.0",
   "description": "This project is a web3 bbs. Users can post articles on the website and use cryptocurrency trading props on it",
   "main": "index.js",
@@ -8,11 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hament/web3bbs.git"
+    "url": "git+https://github.com/hament/web3bbs.git"
   },
   "keywords": [
+    "TEA",
     "web3bbs"
   ],
+  "homepage": "https://github.com/hament/web3bbs#readme",
+  "bugs": {
+    "url": "https://github.com/hament/web3bbs/issues"
+  },
   "author": "hament",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@hament/web3bbs": "^1.0.0",
+    "web3bbs": "^1.0.0"
+  }
 }
